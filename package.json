@@ -1,0 +1,13 @@
+{
+  "name": "books_api_client",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.13",
+    "superstatic": "^7.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
